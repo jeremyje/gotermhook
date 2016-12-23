@@ -1,6 +1,6 @@
 // +build !appengine
 
-package termhook
+package gotermhook
 
 import (
 	"os"

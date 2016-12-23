@@ -1,4 +1,4 @@
-package termhook
+package gotermhook
 
 import "sync/atomic"
 
